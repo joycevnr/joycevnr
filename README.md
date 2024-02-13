@@ -1,12 +1,12 @@
 <div style="border-top: 3px solid #bc1069;"></div>
 
-## Olá, eu sou Joyce Vitória, prazer em conhecê-lo! 
+## Olá, eu sou Joyce Vitória, prazer em conhecê-l@! 
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Seja+bem+vindo🖐️😁/>"/></div> 
 <div align="center"> 
 </div>
 
-<h2 align="center"><i> 👨🏻‍💻 Sobre Mim  </i></h2>
+<h2 align="center"><i> 👩‍💻 Sobre Mim  </i></h2>
 <div style="display: inline_block">
 <ul>
 <li>🔭 &nbsp; Sempre aprendendo e aprimorando meus conhecimentos.</li>
@@ -23,7 +23,7 @@
 <br><br><br>
 
 
-<h2 align="center"><i> 🌟 Tecnologias que eu uso no meu dia 🌟</i></h2>
+<h2 align="center"><i> 🌟 Tecnologias que eu uso 🌟</i></h2>
 <div style="display: inline_block">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -74,7 +74,7 @@ console.log("A única maneira de fazer um excelente trabalho é amar o que você
 ```
          
 <div align="center">
-       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<Espero+que+tenha+gostado/>"/> 
+       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<Espero+que+tenha+gostad@/>"/> 
 </div>
 
 
