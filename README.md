@@ -70,7 +70,7 @@
 <br><br><br>
 
 ```javascript
-console.log(""A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs");
+console.log("A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs);
 ```
          
 <div align="center">
