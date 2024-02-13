@@ -61,7 +61,7 @@
 <br>
 <h2 align="center"><i> 🌌 Redes Sociais: </i></h2> 
 <div align="center"> 
-  <a href="https://gitlab.com/joyce.nascimento" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+  <a href="https://gitlab.com/joycevnr" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/joyce_vitoriar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="joyce.nascimento@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joyce-vitória-07745723b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
