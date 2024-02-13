@@ -2,7 +2,7 @@
 
 ## Olá, eu sou Joyce Vitória, prazer em conhecê-l@! 
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Seja+bem+vindo🖐️😁/>"/></div> 
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Seja+bem+vind@🖐️😁/>"/></div> 
 <div align="center"> 
 </div>
 
@@ -74,7 +74,7 @@ console.log("A única maneira de fazer um excelente trabalho é amar o que você
 ```
          
 <div align="center">
-       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<Espero+que+tenha+gostad@/>"/> 
+       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<Espero+que+tenha+gostado/>"/> 
 </div>
 
 
