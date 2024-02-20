@@ -9,12 +9,12 @@
 <h2 align="center"><i> 👩‍💻 Sobre Mim  </i></h2>
 <div style="display: inline_block">
 <ul>
-<li>🔭 &nbsp; Sempre aprendendo e aprimorando meus conhecimentos.</li>
-<li>🤔 &nbsp; Explorando novas tecnologias e desenvolvendo na prática.</li>
-<li>🎓 &nbsp; Estudante de Ciência da Computação pela UFCG e formada em técnica em Informática pelo IFPB.</li>
-<li>💼 &nbsp; Desenvolvedora  full stack.</li>
-<li>🌱 &nbsp; Entusiasta em buscar aprender as distintas temáticas na área técnológica.</li>
-<li>✍️ &nbsp; Apaixonada pela leitura e diferentes linguagens.</li>
+<li>🔭 &nbsp; Sempre aprendendo e aprimorando meus conhecimentos;</li>
+<li>🤔 &nbsp; Explorando novas tecnologias e desenvolvendo na prática;</li>
+<li>🎓 &nbsp; Estudante de Ciência da Computação pela UFCG e formada em técnica em Informática pelo IFPB;</li>
+<li>💼 &nbsp; Desenvolvedora  full stack;</li>
+<li>🌱 &nbsp; Entusiasta em buscar aprender as distintas temáticas na área técnológica;</li>
+<li>✍️ &nbsp; Apaixonada pela leitura e diferentes linguagens;</li>
 <li>🚀 &nbsp; Bolsista no projeto GoSyn4Tax do IFPB com a Synchro.</li>
 </ul>
 </div>
@@ -42,17 +42,17 @@
    <table>
     <tr>
       <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycevit&layout=compact&langs_count=50&theme=react"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycevnr&layout=compact&langs_count=50&theme=react"/>
       </td>
     </tr>
   </table>
   <table>
     <tr>
       <td>
-        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joycevit&theme=react&locale=pt_BR"/>
+        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joycevnr&theme=react&locale=pt_BR"/>
       </td>
       <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=joycevit&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=joycevnr&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
       </td>
     </tr>
   </table>
@@ -84,7 +84,7 @@ console.log("A única maneira de fazer um excelente trabalho é amar o que você
 <br></br>
 <p align="center"> 
   Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/joycevit/count.svg" />
+  <img src="https://profile-counter.glitch.me/joycevnr/count.svg" />
 </p>
 
 <div style="border-bottom: 3px solid #bc1069;"></div>
