@@ -2,7 +2,7 @@
 
 ## Olá, eu sou Joyce Vitória, prazer em conhecê-l@! 
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Seja+bem+vind@🖐️😁/>"/></div> 
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=ff79c6&center=true&lines=<Seja+bem+vind@🖐️😁/>"/></div> 
 <div align="center"> 
 </div>
 
@@ -14,7 +14,7 @@
 <li>🎓 &nbsp; Estudante de Ciência da Computação pela UFCG e formada em técnica em Informática pelo IFPB;</li>
 <li>💼 &nbsp; Desenvolvedora  full stack;</li>
 <li>🌱 &nbsp; Entusiasta em buscar aprender as distintas temáticas na área técnológica;</li>
-<li>✍️ &nbsp; Apaixonada pela leitura e diferentes linguagens;</li>
+<li>✍️ &nbsp; Apaixonada pela literatura e diferentes linguagens;</li>
 <li>🚀 &nbsp; Bolsista no projeto GoSyn4Tax do IFPB com a Synchro.</li>
 </ul>
 </div>
@@ -42,17 +42,17 @@
    <table>
     <tr>
       <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycevnr&layout=compact&langs_count=50&theme=react"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycevnr&layout=compact&langs_count=50&theme=omni"/>
       </td>
     </tr>
   </table>
   <table>
     <tr>
       <td>
-        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joycevnr&theme=react&locale=pt_BR"/>
+        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joycevnr&theme=omni&locale=pt_BR"/>
       </td>
       <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=joycevnr&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=joycevnr&show_icons=true&theme=omni&include_all_comits=true&count_private=true"/>
       </td>
     </tr>
   </table>
@@ -70,11 +70,11 @@
 <br><br><br>
 
 ```javascript
-console.log("A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs);
+console.log("Enquanto eu tiver perguntas e não houver respostas, continuarei a escrever." - Clarice Lispector);
 ```
          
 <div align="center">
-       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<Espero+que+tenha+gostado/>"/> 
+       <img src="https://readme-typing-svg.herokuapp.com?color=ff79c6&center=true&vCenter=true&lines=<Espero+que+tenha+gostado/>"/> 
 </div>
 
 
