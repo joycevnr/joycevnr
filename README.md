@@ -11,7 +11,7 @@
 <br><br>
 <div style="display: inline_block">
 <ul>
-  <li>🔭 &nbsp; Always learning and improving my knowledge;;</li>
+  <li>🔭 &nbsp; Always learning and improving my knowledge;</li>
   <li>🤔 &nbsp; Exploring new technologies and developing practically;</li>
   <li>🎓 &nbsp; Graduating in Computer Science at UFCG and holds a technical degree in Information from IFPB;</li>
   <li>💼 &nbsp; Full stack developer with a focus on web applications;</li>
