@@ -17,7 +17,7 @@
   <li>💼 &nbsp; Full stack developer with a focus on web applications;</li>
   <li>🌱 &nbsp; Enthusiastic about learning various topics in the technology field;</li>
   <li>✍️ &nbsp; Passionate about literature, different languages, and sharing knowledge;</li>
-  <li>🚀 &nbsp; Scholarship holder in the GoSyn4Tax project at IFPB with Synchro.</li>
+  <li>🚀 &nbsp; Scholarship holder in project at LSI @UFCG.</li>
 </ul>
 </div>
 
@@ -66,8 +66,8 @@
 <div align="center"> 
   <a href="https://gitlab.com/joycevnr" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/joyce_vitoriar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="joyce.nascimento@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joyce-vitória-07745723b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href ="joyce.vitoria@estudante.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joycevitoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 <br><br>
