@@ -88,7 +88,9 @@ console.log("As long as I have questions and there are no answers, I will contin
 <br></br>
 <p align="center"> 
   Visitor Counter<br>
-  <img src="https://profile-counter.glitch.me/joycevnr/count.svg" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joycevnr&color=blue&style=flat-square" alt="Profile views"/>
+</p>
 </p>
 
 <div style="border-bottom: 3px solid #bc1069;"></div>
