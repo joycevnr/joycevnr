@@ -8,8 +8,8 @@
 
 <h2 align="center"><i> 👩‍💻 About Me </i></h2>
 
-<img width="300px" align="right" style="float: right; margin-left: 20px;" src="./octocat_joycevnr.png">
-
+<img   height="250px" align="right" style="float: right; margin-left: 20px;" src="./octocat_joycevnr.png">
+<br/><br/>
 <div style="display: inline_block; text-align: left;">
   <ul>
     <li>🎓 <b>Education:</b> B.Sc. Candidate in <b>Computer Science at UFCG</b> | Tech in Informatics (IFPB).</li>
@@ -23,8 +23,6 @@
 
 <h2 align="center"><i> 🛠️ Technical Stack </i></h2>
 
-<div align="center">
-  
 <div align="center">
 
   <b>Languages</b><br/>
