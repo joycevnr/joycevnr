@@ -12,9 +12,9 @@
 
 <div style="display: inline_block; text-align: left;">
   <ul>
-    <li>🎓 <b>Education:</b>B.Sc. Candidate in <b>Computer Science at UFCG</b> | Tech in Informatics (IFPB).</li>
-    <li>💼 <b>Focus:</b> Full Stack Development with a focus on web applications;.</li>
-    <li>🔬 <b>Research:</b> Scholarship holder in project at <b>LSI</b> @UFCG..</li>
+    <li>🎓 <b>Education:</b> B.Sc. Candidate in <b>Computer Science at UFCG</b> | Tech in Informatics (IFPB).</li>
+    <li>💼 <b>Focus:</b> Full Stack Development with a focus on web applications.</li>
+    <li>🔬 <b>Research:</b> Scholarship holder in project at <b>LSI</b> @UFCG.</li>
     <li>🌱 <b>Learning:</b> Enthusiastic about learning various topics in the technology field.</li>
     <li>✍️ <b>Interests:</b> Open Source, Technical Writing & Linguistics.</li>
   </ul>
