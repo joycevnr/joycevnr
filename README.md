@@ -1,95 +1,95 @@
 <div style="border-top: 3px solid #bc1069;"></div>
 
-## Hello, I am Joyce Vitória, nice to meet you!
+<br/>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=ff79c6&center=true&lines=<Welcome+🖐️😁/>"/></div> 
-<div align="center"> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BC1069&center=true&vCenter=true&width=500&lines=Hello,+nice+to+meet+you!+%F0%9F%91%8B;I+am+Joyce+Vit%C3%B3ria;Full+Stack+Developer;Computer+Science+Student;Researcher+at+LSI+%2F+UFCG" alt="Typing SVG" />
 </div>
 
-<h2 align="center"><i> 👩‍💻 About Me  </i></h2>
-<img width="300px" align="right" style="float: right; margin-left: 20px;"  src="./octocat_joycevnr.png">
-<br><br>
-<div style="display: inline_block">
-<ul>
-  <li>🔭 &nbsp; Always learning and improving my knowledge;</li>
-  <li>🤔 &nbsp; Exploring new technologies and developing practically;</li>
-  <li>🎓 &nbsp; Graduating in Computer Science at UFCG and holds a technical degree in Information from IFPB;</li>
-  <li>💼 &nbsp; Full stack developer with a focus on web applications;</li>
-  <li>🌱 &nbsp; Enthusiastic about learning various topics in the technology field;</li>
-  <li>✍️ &nbsp; Passionate about literature, different languages, and sharing knowledge;</li>
-  <li>🚀 &nbsp; Scholarship holder in project at LSI @UFCG.</li>
-</ul>
+<h2 align="center"><i> 👩‍💻 About Me </i></h2>
+
+<img width="300px" align="right" style="float: right; margin-left: 20px;" src="./octocat_joycevnr.png">
+
+<div style="display: inline_block; text-align: left;">
+  <ul>
+    <li>🎓 <b>Education:</b>B.Sc. Candidate in <b>Computer Science at UFCG</b> | Tech in Informatics (IFPB).</li>
+    <li>💼 <b>Focus:</b> Full Stack Development with a focus on web applications;.</li>
+    <li>🔬 <b>Research:</b> Scholarship holder in project at <b>LSI</b> @UFCG..</li>
+    <li>🌱 <b>Learning:</b> Enthusiastic about learning various topics in the technology field.</li>
+    <li>✍️ <b>Interests:</b> Open Source, Technical Writing & Linguistics.</li>
+  </ul>
+</div>
+<br clear="all"/><br/>
+
+<h2 align="center"><i> 🛠️ Technical Stack </i></h2>
+
+<div align="center">
+  
+<div align="center">
+
+  <b>Languages</b><br/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Clojure" src="https://img.shields.io/badge/Clojure-Clojure?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <b>Frontend & Backend</b><br/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+
+  <b>Database & DevOps</b><br/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
 
-<br><br>
+<br/><br/>
+<h2 align="center"><i> 📊 GitHub Performance </i></h2>
 
-<h2 align="center"><i> 🌟 Technologies I Use  🌟</i></h2>
-<div style="display: inline_block">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div><br/>
-
-<h2 align="center"><i> 💻 Git Hub Status: </i></h2>
-
-<div align="center" style="border: 3px solid #bc1069; padding: 10px;">
-   <table>
-    <tr>
-      <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycevnr&layout=compact&langs_count=50&theme=omni"/>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td>
-        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joycevnr&theme=omni&locale=pt_BR"/>
-      </td>
-      <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=joycevnr&show_icons=true&theme=omni&include_all_comits=true&count_private=true"/>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joycevnr&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycevnr&layout=compact&langs_count=8&theme=omni&hide_border=true"/>
+</div>
+<br/>
+<div align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=joycevnr&theme=omni&locale=en&hide_border=true"/>
 </div>
 
+<br/><br/>
 
-<br><br>
+<h2 align="center"><i> 🌐 Professional Networks </i></h2>
 
-<h2 align="center"><i> 🌌 Social Media: </i></h2> 
-<div align="center"> 
-  <a href="https://gitlab.com/joycevnr" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href ="joyce.vitoria@estudante.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joycevitoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/joycevitoria/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:joyce.vitoria@estudante.ufcg.edu.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://gitlab.com/joycevnr" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
+  </a>
 </div>
 
-<br><br>
+<br/>
 
 ```javascript
 console.log("As long as I have questions and there are no answers, I will continue to write." - Clarice Lispector);
 ```
-
          
 <div align="center">
-       <img src="https://readme-typing-svg.herokuapp.com?color=ff79c6&center=true&vCenter=true&lines=<I+hope+you+enjoyed/>"/> 
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC1069&center=true&vCenter=true&width=435&lines=I+hope+you+enjoyed!+%F0%9F%98%89" alt="Typing SVG" />
 </div>
-
 
 <div align="center">
-       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"/>
+  <img src="https://komarev.com/ghpvc/?username=joycevnr&color=bc1069&style=flat-square" alt="Profile views"/>
+  <br/>
+  Visitor Counter
 </div>
-<br></br>
-<p align="center"> 
-  Visitor Counter<br>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joycevnr&color=blue&style=flat-square" alt="Profile views"/>
-</p>
-</p>
-
-<div style="border-bottom: 3px solid #bc1069;"></div>
