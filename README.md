@@ -16,7 +16,7 @@
     <li>💼 <b>Focus:</b> Full Stack Development with a focus on web applications.</li>
     <li>🔬 <b>Research:</b> Scholarship holder in project at <b>LSI</b> @UFCG.</li>
     <li>🌱 <b>Learning:</b> Enthusiastic about learning various topics in the technology field.</li>
-    <li>✍️ <b>Interests:</b> Open Source, Technical Writing & Linguistics.</li>
+    <li>✍️ <b>Interests:</b> Web application, Databases, Back-End & Linguistics.</li>
   </ul>
 </div>
 <br clear="all"/><br/>
