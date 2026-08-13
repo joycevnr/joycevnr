@@ -1,7 +1,7 @@
 <img align="right" height="250" style="float: right; margin-left: 20px;" src="./octocat_joycevnr.png" alt="Joyce's Octocat">
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hello,+nice+to+meet+you!+%F0%9F%91%8B;I+am+Joyce+Vit%C3%B3ria;Full+Stack+Developer;Computer+Science+Student;Researcher+at+LSI+%2F+UFCG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BC1069&vCenter=true&width=500&lines=Hello,+nice+to+meet+you!+%F0%9F%91%8B;I+am+Joyce+Vit%C3%B3ria;Full+Stack+Developer;Computer+Science+Student;Researcher+at+LSI+%2F+UFCG" alt="Typing SVG" />
 </div>
 
 <div align="left">
