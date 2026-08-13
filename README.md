@@ -1,4 +1,5 @@
 <img align="right" height="250" style="float: right; margin-left: 20px;" src="./octocat_joycevnr.png" alt="Joyce's Octocat">
+
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hello,+nice+to+meet+you!+%F0%9F%91%8B;I+am+Joyce+Vit%C3%B3ria;Full+Stack+Developer;Computer+Science+Student;Researcher+at+LSI+%2F+UFCG" alt="Typing SVG" />
 </div>
@@ -13,7 +14,6 @@
 <br/>
 
 Welcome to my profile! I'm a Computer Science undergraduate, Full-Stack developer, and open-source enthusiast. I am currently a Scholarship Researcher @LSI (UFCG), building scalable web applications and studying software architecture. Thanks for visiting and I'd love <a href="https://www.linkedin.com/in/joycevitoria/" target="_blank"><b>to connect!</b></a>
-
 
 <br/>
 
@@ -32,12 +32,12 @@ Welcome to my profile! I'm a Computer Science undergraduate, Full-Stack develope
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
   <img alt="Clojure" src="https://img.shields.io/badge/Clojure-Clojure?style=flat-square&logo=clojure&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
