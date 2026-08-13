@@ -30,6 +30,7 @@ Welcome to my profile! I'm a Computer Science undergraduate, Full-Stack develope
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white" />
+  <img alt="Clojure" src="https://img.shields.io/badge/Clojure-Clojure?style=flat-square&logo=clojure&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
